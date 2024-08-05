@@ -1,10 +1,9 @@
-
-import Home from '@/pages/Home'
+import Start from '@/pages/Start'
 import React from 'react'
 
 function page() {
   return (
-    <Home/>
+    <Start/>
   )
 }
 
