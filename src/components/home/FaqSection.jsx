@@ -80,33 +80,33 @@ function FaqSection() {
       {
         squarCard: {
           link: "/",
-          title: "Buying your first home with Better",
+          title: "What is good debt-to-income ratio for a home loan ?",
           imageLink:
-            "https://media.better.com/better-com/homepage/learning-center/first-home.webp",
+            "https://media.better.com/better-com/homepage/learning-center/good-dti.webp",
         },
         rectangleCard: {
           link: "/",
-          title: "One Day Mortgage",
+          title: "Buy a house without realtor",
           description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione facilis, error libero enim dicta alias amet quas quisquam necessitatibus fugit.",
+            "Thinking about buying a house without a real estate agent? Read this first.",
           imageLink:
-            "https://media.better.com/better-com/homepage/learning-center/one-day-mortgage.webp",
+            "https://media.better.com/better-com/homepage/learning-center/buy-house-without-realtor.webp",
         },
       },
       {
         squarCard: {
           link: "/",
-          title: "Insurance",
+          title: "Conventional loan requirements",
           imageLink:
-            "https://media.better.com/better-com/homepage/learning-center/insurance.webp",
+            "https://media.better.com/better-com/homepage/learning-center/conventional-loan.webp",
         },
         rectangleCard: {
           link: "/",
-          title: "Better HELOC",
+          title: "Timeline for homebuying process",
           description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione facilis, error libero enim dicta alias amet quas quisquam necessitatibus fugit.",
+            "Does the process of buying a home seem daunting? Don't stress, we broke it down into 8 easy steps.",
           imageLink:
-            "https://media.better.com/better-com/homepage/learning-center/better-heloc.webp",
+            "https://media.better.com/better-com/homepage/learning-center/loan-timeline.webp",
         },
       },
     ],
