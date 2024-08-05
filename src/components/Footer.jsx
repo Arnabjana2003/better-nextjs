@@ -76,7 +76,7 @@ function Footer() {
           ))}
         </div>
         <div className="lg:flex gap-20">
-            {resourceAndCompany.map(item=><div className="w-56">
+            {resourceAndCompany.map((item,idx)=><div key={idx} className="w-56">
                 <h4 className="text-xl font-semibold text-slate-800 mb-2">{item.title}</h4>
                 {item.data.map((ele,index)=><p key={index} className="text-wrap text-slate-800 my-5 text-base transition-all duration-100 hover:underline underline-offset-2">{ele}</p>)}
             </div>)}
